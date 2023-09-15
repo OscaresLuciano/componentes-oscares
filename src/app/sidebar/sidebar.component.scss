@@ -1,0 +1,15 @@
+aside {
+    background-color: #210123;
+    color: #fef7d5;
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height));
+    position: fixed;
+    padding: 0 10px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+a {
+    color: inherit;
+}
